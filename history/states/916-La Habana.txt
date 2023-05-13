@@ -1,0 +1,21 @@
+state={
+	id=916
+	name="STATE_916"
+	history={
+		owner = CUB
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = CUB
+	}
+	provinces={
+		13347 13353 13354 13355 13357 13361 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
